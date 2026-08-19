@@ -1,8 +1,4 @@
-# JavaScript Practice
-
-This repository contains my JavaScript learning journey from basics to advanced concepts.
-
-## 📚 Topics Covered
+## 💻 Practice Files
 
 - Variables
 - Data Types
@@ -15,62 +11,39 @@ This repository contains my JavaScript learning journey from basics to advanced 
 - if Statement
 - if...else Statement
 - else if Statement
-
----
-
-## 💻 Practice Files
-
-- variables.js
-- data-types.js
-- arithmetic-operators.js
-- operator-precedence.js
-- assignment-operators.js
-- unary-operators.js
-- comparison-operators.js
-- if-else.js
-- else-if.js
+- Logical Operators
 
 ---
 
 ## 🚀 Mini Projects
 
-- Grocery Bill
+### Conditional Statements
 - ATM Simulator
-- Game Score Counter
-- Movie Ticket Eligibility
-- Student Pass Checker
+- Driving Licence Eligibility
+- Exam Result
+
+### Operators
+- ATM Withdrawal
 - Game Level Checker
-- ATM Withdrawal System
-- Mobile Battery Checker
-- Driving Licence Checker
-- Shopping Discount Checker
-- Exam Result Checker
+- Game Rank Checker
+- Game Score Checker
+- Grocery Bill
+- Movie Ticket Checker
+- Shopping Discount
 - Speed Checker
-- Phone Unlock System
-- Student Grade System
+- Students Marks
 - Temperature Checker
-- Game Rank System
+- Phone Unlock
+
+### Logical Operators
+- Admin Access
+- Payment Checker
+- Banned Access
+- Discount Eligibility
+- Event Entry
 
 ---
 
-## 🛠️ Tools Used
+## 📚 Learning Progress
 
-- JavaScript
-- Visual Studio Code
-- Git
-- GitHub
-
----
-
-## 📈 Current Progress
-
-✅ JavaScript Fundamentals Completed
-
-Next Topics:
-
-- Logical Operators (`&&`, `||`, `!`)
-- switch Statement
-- Loops
-- Functions
-- Arrays
-- Objects
+I am building this repository step by step while learning JavaScript fundamentals and applying each concept through practical exercises and mini projects.
