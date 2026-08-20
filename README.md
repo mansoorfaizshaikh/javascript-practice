@@ -12,17 +12,22 @@
 - if...else Statement
 - else if Statement
 - Logical Operators
+- Switch Statement
+- Break and Default in Switch
+- Fall-through Behavior
 
 ---
 
 ## 🚀 Mini Projects
 
 ### Conditional Statements
+
 - ATM Simulator
 - Driving Licence Eligibility
 - Exam Result
 
 ### Operators
+
 - ATM Withdrawal
 - Game Level Checker
 - Game Rank Checker
@@ -36,11 +41,18 @@
 - Phone Unlock
 
 ### Logical Operators
+
 - Admin Access
 - Payment Checker
 - Banned Access
 - Discount Eligibility
 - Event Entry
+
+### Switch Operator
+
+- Calculator Menu
+- Traffic Signal
+- User Role Access
 
 ---
 
