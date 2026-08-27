@@ -15,6 +15,11 @@
 - Switch Statement
 - Break and Default in Switch
 - Fall-through Behavior
+- for Loop
+- break and continue in for Loop
+- Sum and Product using for Loop
+- Nested for Loop
+- Pattern Printing using Nested Loops
 
 ---
 
@@ -48,14 +53,25 @@
 - Discount Eligibility
 - Event Entry
 
-### Switch Operator
+### Switch Statement
 
 - Calculator Menu
 - Traffic Signal
 - User Role Access
+
+### for Loop
+
+- Number Analyzer
 
 ---
 
 ## 📚 Learning Progress
 
 I am building this repository step by step while learning JavaScript fundamentals and applying each concept through practical exercises and mini projects.
+
+### Current Progress
+
+- JavaScript fundamentals completed up to `for` loops
+- Practiced nested `for` loops and basic pattern printing
+- Built the **Number Analyzer** mini project using `for` loop, `%`, and `if...else`
+- Next topic: `while` loop
