@@ -20,6 +20,13 @@
 - Sum and Product using for Loop
 - Nested for Loop
 - Pattern Printing using Nested Loops
+- while Loop
+- break and continue in while Loop
+- Sum using while Loop
+- Modulo with while Loop
+- do...while Loop
+- do...while with if
+- do...while with Sum
 
 ---
 
@@ -63,6 +70,14 @@
 
 - Number Analyzer
 
+### while Loop
+
+- Number Guess Counter
+
+### do...while Loop
+
+- Menu Retry Simulator
+
 ---
 
 ## 📚 Learning Progress
@@ -71,7 +86,11 @@ I am building this repository step by step while learning JavaScript fundamental
 
 ### Current Progress
 
-- JavaScript fundamentals completed up to `for` loops
-- Practiced nested `for` loops and basic pattern printing
+- JavaScript fundamentals completed through `do...while` loops
+- Practiced `for`, `while`, and `do...while` loops
+- Practiced `break` and `continue` with loops
+- Practiced nested loops, pattern printing, modulo, and sum calculations
 - Built the **Number Analyzer** mini project using `for` loop, `%`, and `if...else`
-- Next topic: `while` loop
+- Built the **Number Guess Counter** mini project using `while`, `if`, `break`, and attempt counting
+- Built the **Menu Retry Simulator** mini project using `do...while` and attempt counting
+- Next topic: Functions
